@@ -5,7 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dragongrafdiscord" alt="dragongrafdiscord" /></a> </p>
 
-- 🔭 I’m currently working on **a lot**
+- 🔭 I’m currently working on **a lot** 
+- Translating https://github.com/maximmax42/CustomRP-Docs to swiss german
+- Making Presets https://github.com/dragongrafdiscord/mycustomrichpresence for https://github.com/maximmax42/Discord-CustomRP
+- Maintaining my [Movies and Series](https://github.com/dragongrafdiscord/movies) List that i can host for movie nights etc
+- Hosting gaming Servers like Ark, The Isle etc for [Popcorn Gaming](https://discord.gg/popcorngaming)
+- Video Editing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
